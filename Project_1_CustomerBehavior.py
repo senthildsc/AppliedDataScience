@@ -1,9 +1,6 @@
 '''
 File              : Project_1_CustomerBehavior.py
 Name              : Senthilraj Srirangan
-Date              : 12/19/2020
-Assignment Number : 3.2 Project 1: Project Draft/Milestone 3
-Course            : DSC 680 - Applied Data Science
 Exercise Details  :
     Build Customer Behavior Model.
 '''
